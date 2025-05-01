@@ -52,7 +52,7 @@ Post-launch, the redesigned portal recorded:
 - 💬 **Higher satisfaction ratings from internal stakeholders**
 - 🔁 **Improved tool discoverability and navigation flow**
 
----s
+---
 
 ## 🤝 Collaboration
 
