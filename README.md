@@ -52,13 +52,7 @@ Post-launch, the redesigned portal recorded:
 - 💬 **Higher satisfaction ratings from internal stakeholders**
 - 🔁 **Improved tool discoverability and navigation flow**
 
----
-
-## 📷 UI Preview
-
-> (Add screenshots here showing the calendar, news feed, and responsive UI)
-
----
+---s
 
 ## 🤝 Collaboration
 
