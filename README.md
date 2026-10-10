@@ -8,7 +8,7 @@ InsideBCG is BCG’s internal web portal used globally by consultants and staff 
 
 ## 💼 My Role
 
-As a **Junior Specialist** at BCG, I contributed to the **design, development, and backend integration** of new features in the InsideBCG portal. My work included UI/UX enhancements, API integrations, and creating a scalable backend to support dynamic content and user personalization.
+As a **Junior Software Engineer** at BCG, I contributed to the **design, development, and backend integration** of new features in the InsideBCG portal. My work included UI/UX enhancements, API integrations, and creating a scalable backend to support dynamic content and user personalization.
 
 ---
 
